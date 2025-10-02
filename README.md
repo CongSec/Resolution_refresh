@@ -18,6 +18,7 @@
 与之前介绍的修改远程桌面连接设置或注册表参数相比,本文提供了一个 **更为简单快捷的解决方法** —— 重启远程电脑的资源管理器进程:
 **方法一：**
 每次图标乱了直接运行此脚本即可刷新桌面
+脚本下载链接：https://github.com/CongSec/Resolution_refresh/releases/tag/V1.0
 
 **方法二：**
 1. 使用 **Ctrl+Alt+End** 快捷键打开  **&quot;Windows 安全&quot;**  界面。
